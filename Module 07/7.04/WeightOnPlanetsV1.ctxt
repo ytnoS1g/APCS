@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printHeading()
+comment1.params=
+comment1.target=double[]\ readFile()
+comment2.params=gravity
+comment2.target=double[]\ calculateWeight(double[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

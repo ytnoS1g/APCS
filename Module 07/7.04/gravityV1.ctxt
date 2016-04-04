@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=d\ M
+comment0.target=double\ calculateSurfaceGravity(double,\ double)
+comment0.text=\r\n\ @param\ args\r\n
+comment1.params=planetName\ diameterKm\ massKg\ g
+comment1.target=void\ printResultsToScreen(java.lang.String,\ double,\ double,\ double)
+comment2.params=g
+comment2.target=void\ writeResultsToFile(double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

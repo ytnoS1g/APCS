@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=degMeasure\ velocityValue
+comment0.target=Catapult(double,\ double)
+comment1.params=
+comment1.target=double\ calcDistance()
+comment1.text=\r\n\ Mutator\ method\ which\ calculates\ the\ distance\ of\ a\ projectile\ fired\ by\ the\ catapult\ object\ (no\ parameter).\r\n\ @return\ distance--returns\ double\ value\ for\ distance\ of\ the\ projectile's\ travel.\r\n
+numComments=2
